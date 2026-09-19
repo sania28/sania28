@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Sania Mujtaba Header" />
+  <img src="header.svg" width="100%" alt="Sania Mujtaba Header" />
 </p>
 
 <p align="center">
@@ -36,6 +36,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Curious+mind.+Clean+code.+Real-world+solutions.;Building%2C+learning%2C+and+growing+with+every+project." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+</p>
+
+<p align="center">
+  <img src="quote.svg" width="100%" alt="Sania Mujtaba Quote" />
 </p>
 
 <p align="center">
@@ -320,5 +324,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
+  <img src="footer.svg" width="100%" alt="Footer" />
 </p>
