@@ -1,0 +1,47 @@
+<svg width="1600" height="360" viewBox="0 0 1600 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="52%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#4b0b0b"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="50%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ef4444" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="360" rx="28" fill="url(#grid)"/>
+  <path d="M0 300 C260 230, 420 345, 700 270 S1180 180, 1600 250" fill="none" stroke="url(#red)" stroke-width="3" opacity="0.85">
+    <animate attributeName="stroke-dashoffset" from="0" to="-900" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dasharray" values="20 26;40 20;20 26" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="1280" cy="100" r="64" fill="none" stroke="#dc2626" stroke-opacity="0.28" stroke-width="2">
+    <animate attributeName="r" values="58;72;58" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1280" cy="100" r="38" fill="none" stroke="#ef4444" stroke-opacity="0.5" stroke-width="2">
+    <animate attributeName="r" values="34;44;34" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <g filter="url(#glow)">
+    <text x="120" y="150" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#ffffff">SANIA MUJTABA</text>
+    <text x="124" y="202" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="5" fill="#ef4444">FULL STACK DEVELOPER</text>
+  </g>
+  <text x="124" y="252" font-family="monospace" font-size="18" fill="#d1d5db">Java  •  Spring Boot  •  React  •  JavaScript  •  SQL</text>
+  <text x="124" y="292" font-family="monospace" font-size="16" fill="#9ca3af">&lt; build / learn / ship / repeat /&gt;</text>
+  <g opacity="0.8">
+    <rect x="1390" y="250" width="112" height="4" rx="2" fill="#dc2626">
+      <animate attributeName="x" values="1360;1410;1360" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1318" y="268" width="184" height="4" rx="2" fill="#7f1d1d">
+      <animate attributeName="x" values="1280;1330;1280" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

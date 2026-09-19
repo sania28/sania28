@@ -1,0 +1,20 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="qbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070707"/>
+      <stop offset="100%" stop-color="#210606"/>
+    </linearGradient>
+    <linearGradient id="qred" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#991b1b"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#qbg)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="24" fill="none" stroke="#dc2626" stroke-opacity="0.35"/>
+  <text x="72" y="108" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#ef4444">“</text>
+  <text x="130" y="112" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Curious mind. Clean code.</text>
+  <text x="130" y="158" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Real-world solutions.</text>
+  <text x="130" y="208" font-family="monospace" font-size="17" fill="#9ca3af">Build with purpose. Learn with curiosity.</text>
+  <rect x="130" y="238" width="270" height="5" rx="2.5" fill="url(#qred)"/>
+  <text x="130" y="275" font-family="monospace" font-size="14" fill="#ef4444">— SANIA MUJTABA</text>
+</svg>

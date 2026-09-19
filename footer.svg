@@ -1,0 +1,21 @@
+<svg width="1600" height="180" viewBox="0 0 1600 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="65%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#3b0808"/>
+    </linearGradient>
+    <linearGradient id="fred" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="50%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="180" rx="28" fill="url(#fbg)"/>
+  <path d="M0 80 C260 25, 460 145, 760 82 S1260 25, 1600 85" fill="none" stroke="url(#fred)" stroke-width="3" opacity="0.75">
+    <animate attributeName="stroke-dashoffset" from="0" to="-850" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dasharray" values="18 24;34 18;18 24" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <text x="800" y="128" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="4" fill="#ffffff">KEEP LEARNING • KEEP BUILDING</text>
+  <text x="800" y="154" text-anchor="middle" font-family="monospace" font-size="14" fill="#ef4444">Sania Mujtaba</text>
+</svg>
