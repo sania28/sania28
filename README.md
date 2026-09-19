@@ -1,274 +1,324 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Sania Mujtaba Header" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sania%20Mujtaba&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<p align="center">
+  <a href="https://github.com/sania28">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Sania%20Mujtaba%20%F0%9F%91%8B;Computer%20Science%20%26%20Engineering%20Graduate%20%F0%9F%8E%93;Full-Stack%20Developer%20%F0%9F%92%BB;Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20JavaScript;Building%20Real-World%20Web%20Applications%20%F0%9F%9A%80;Always%20Learning%20%26%20Building%20%F0%9F%94%A5" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Graduate;Frontend+%26+Full-Stack+Developer;React+%7C+TypeScript+%7C+Java;Spring+Boot+%7C+Node.js+%7C+MongoDB;Always+Learning+%26+Building+%F0%9F%9A%80&repeat=true" alt="Typing SVG"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sania-mujtaba-20806a394/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:selfieq982@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sania28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://sania28.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+  </a>
+</p>
 
-</div>
-
-</div>
-
----
-
-# 👋 Hi there, I'm Sania Mujtaba
-
-### 💻 Computer Science & Engineering Graduate | Frontend & Full-Stack Developer
-
-I am a **Computer Science & Engineering graduate** passionate about creating modern, responsive, and user-focused web applications.
-
-I enjoy transforming ideas into real-world software using modern frontend and backend technologies. I love learning new technologies, solving problems, and building projects that provide meaningful user experiences.
-
----
-
-# 🚀 About Me
-
-- 🎓 **B.Tech in Computer Science & Engineering**
-- 🏫 **Bengal College of Engineering and Technology, Durgapur**
-- 📅 **Graduated in 2026**
-- 💻 Focused on **Frontend & Full-Stack Development**
-- ⚛️ Building applications using **React & TypeScript**
-- ☕ Working with **Java & Spring Boot**
-- 🟢 Building backend applications using **Node.js & Express.js**
-- 🗄️ Experience with **MongoDB & Firebase**
-- 🌐 Interested in **Web Development & Software Engineering**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🔧 Comfortable with **Git, GitHub, VS Code, IntelliJ IDEA & STS**
-- 🚀 Interested in real-world development, open source, and collaboration
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sania28&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+<h2 align="center">🔴 About Me</h2>
 
-## 💻 Programming Languages
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Curious+mind.+Clean+code.+Real-world+solutions.;Building%2C+learning%2C+and+growing+with+every+project." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  Hey! I'm <b>Sania Mujtaba</b>, a <b>Computer Science & Engineering graduate</b> from India.<br />
+  I enjoy building practical, responsive, and user-friendly web applications using modern full-stack technologies.<br />
+  My main interests include <b>Java, Spring Boot, React, JavaScript, REST APIs, databases, and software development.</b>
+</p>
 
-## 🌐 Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Learning-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.Tech_CSE-DC2626?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-111111?style=flat-square" alt="Focus" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p align="center">
+  💬 <b>Let's Discuss:</b> Java, Spring Boot, React, REST APIs, DBMS, Git & Web Development.<br />
+  ⚡ <b>Philosophy:</b> <i>"Keep learning, keep building, and turn ideas into working applications."</i>
+</p>
 
-## ⚙️ Backend Development
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🚀 Featured Project</h4>
+  <p><b>Wisdom Bot – Geeta Edition</b><br /><sub>AI-powered React + Spring Boot application</sub></p>
+</td>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🌱 Currently Learning</h4>
+  <p><b>Spring Boot & React</b><br /><sub>REST APIs • JPA • Full-Stack Integration</sub></p>
+</td>
+</tr>
 
-## 🗄️ Databases
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>💻 Development Focus</h4>
+  <p><b>Full-Stack Web Development</b><br /><sub>Frontend • Backend • Databases</sub></p>
+</td>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-## 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![STS](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
----
-
-# 💼 Experience & Activities
-
-## 🤖 Robonixx Club
-
-Participated in technical activities and collaborative projects through the **Robonixx Club**, gaining practical experience in teamwork, problem-solving, technical coordination, and project development.
-
-## 🌎 Open Source & GitHub
-
-- Participated in open-source initiatives
-- Worked with GitHub repositories
-- Practiced collaborative Git workflows
-- Worked with branches, commits, and pull requests
-- Interested in contributing to meaningful open-source projects
-
-## 💻 Internship & Training
-
-Gained practical exposure through internships, training programs, and project-based development involving:
-
-`Frontend Development` • `Java` • `Spring Boot` • `Web Development` • `Git & GitHub` • `Databases`
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🤝 Collaboration</h4>
+  <p><b>Web & Software Projects</b><br /><sub>Always open to learning and building</sub></p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center">🔴 Featured Projects</h2>
 
-## 🪷 Wisdom Bot – Geeta Edition
+<table width="100%" border="0" align="center">
 
-An interactive spiritual application inspired by the teachings of the **Bhagavad Gita**, combining modern web development with an engaging user experience.
+<tr>
+<td align="center" style="padding: 20px;">
+  <h3>🤖 Wisdom Bot – Geeta Edition</h3>
+  <p>
+    An AI-powered chatbot designed to provide interactive responses based on
+    Bhagavad Gita teachings.
+  </p>
+  <p><b>React • Spring Boot • AI API</b></p>
+</td>
+</tr>
 
-### ✨ Features
+<tr>
+<td align="center" style="padding: 20px;">
+  <h3>🛍️ ShopMart – E-Commerce Web Application</h3>
+  <p>
+    A full-stack e-commerce platform featuring product browsing,
+    authentication, cart and order functionality.
+  </p>
+  <p><b>MERN Stack • Tailwind CSS • MongoDB</b></p>
+  <a href="https://github.com/sania28/E-Commerce-Web-Application" target="_blank">
+    <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Project-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="ShopMart Repository" />
+  </a>
+</td>
+</tr>
 
-- 📖 Bhagavad Gita Shlokas
-- 🤖 Mood-based interaction
-- 🎵 Audio integration
-- 🧘 Spiritual guidance experience
-- ✨ Interactive animations
-- 🎨 Modern responsive UI
-- 🔊 Audio-based experience
+<tr>
+<td align="center" style="padding: 20px;">
+  <h3>✅ TaskFlow – Task Management Application</h3>
+  <p>
+    A full-stack task management application for creating,
+    organizing and tracking tasks.
+  </p>
+  <p><b>React • Node.js • Express • MongoDB</b></p>
+  <a href="https://taskflow-frontend-5qhi.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20App-DC2626?style=for-the-badge&logo=render&logoColor=white&labelColor=0a0a0a" alt="TaskFlow Live Demo" />
+  </a>
+</td>
+</tr>
 
-### 🔧 Tech Stack
+<tr>
+<td align="center" style="padding: 20px;">
+  <h3>📝 Typing Animated Blog Platform</h3>
+  <p>
+    A modern and responsive blog platform with animated typing effects,
+    blog creation and user-focused interface.
+  </p>
+  <p><b>React • JavaScript • REST APIs</b></p>
+  <a href="https://github.com/sania28/Blog-Platform-with-Comments" target="_blank">
+    <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Project-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Blog Repository" />
+  </a>
+</td>
+</tr>
 
-`React` `TypeScript` `Spring Boot` `Java` `REST API`
+<tr>
+<td align="center" style="padding: 20px;">
+  <h3>🌐 Personal Portfolio Website</h3>
+  <p>
+    A responsive portfolio website showcasing skills, projects,
+    experience and development work.
+  </p>
+  <p><b>HTML • CSS • JavaScript • Node.js • MongoDB</b></p>
+</td>
+</tr>
 
----
-
-## 📋 Task Management Application
-
-A full-stack task management application designed to help users efficiently create, manage, and organize tasks.
-
-### ✨ Features
-
-- ➕ Create tasks
-- ✏️ Update tasks
-- 🗑️ Delete tasks
-- 📋 Task management
-- 🔄 CRUD operations
-- 🔌 REST API integration
-- 🗄️ MongoDB database
-- 📱 Responsive interface
-- ☁️ Deployment-ready architecture
-
-### 🔧 Tech Stack
-
-`React` `Node.js` `Express.js` `MongoDB`
-
----
-
-## 🌐 Personal Portfolio
-
-A professional portfolio website showcasing my skills, projects, education, and development experience.
-
-### ✨ Features
-
-- 👩‍💻 Developer profile
-- 🚀 Project showcase
-- 🛠️ Skills section
-- 🎓 Education
-- 💼 Experience
-- 📱 Responsive design
-- 🗄️ Database integration
-- ☁️ Deployment-ready
-
-### 🔧 Tech Stack
-
-`React` `JavaScript` `CSS` `Node.js` `MongoDB`
-
-🔗 **Live Portfolio:** https://thiranex-task1-portfolio.onrender.com/
-
----
-
-## 🛒 E-Commerce Web Application
-
-A responsive e-commerce application focused on providing a clean and user-friendly shopping experience.
-
-### ✨ Features
-
-- 🛍️ Product browsing
-- 🔎 Product information
-- 📱 Responsive UI
-- 🧩 Reusable components
-- 🔌 API integration
-- 🗄️ Backend integration
-
-### 🔧 Tech Stack
-
-`React` `JavaScript` `HTML` `CSS` `Node.js`
+</table>
 
 ---
 
-# 🎓 Education
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-### Bachelor of Technology – Computer Science & Engineering
+<p align="center"><b>Core Programming Languages</b></p>
 
-**Bengal College of Engineering and Technology (BCET), Durgapur**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" width="100%" style="max-width: 250px;" alt="Programming Languages" />
+  </a>
+</p>
 
-📅 **2022 – 2026**
+<p align="center"><b>Frontend Development</b></p>
 
----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" width="100%" style="max-width: 280px;" alt="Frontend Technologies" />
+  </a>
+</p>
 
-# 🎯 Areas of Interest
+<p align="center"><b>Backend & APIs</b></p>
 
-| 🌐 Web Development | ⚛️ React Development |
-| -------------------------------------- | -------------------------- |
-| ☕ Java & Spring Boot | 🟢 Node.js |
-| 🗄️ Database Management | 🤖 Artificial Intelligence |
-| 🧠 Machine Learning | ☁️ Cloud Deployment |
-| 🔓 Open Source | 💻 Software Engineering |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" width="100%" style="max-width: 300px;" alt="Backend Technologies" />
+  </a>
+</p>
 
----
+<p align="center"><b>Databases</b></p>
 
-# 💻 GitHub Journey
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" width="100%" style="max-width: 300px;" alt="Databases" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center"><b>Tools & Development</b></p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sania28&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" width="100%" style="max-width: 400px;" alt="Development Tools" />
+  </a>
+</p>
 
-</div>
-
-### 🚀 Keep Building. Keep Learning. Keep Growing.
-
----
-
-# 📚 Currently Learning
-
-- ⚛️ Advanced React
-- 🔷 TypeScript
-- ☕ Spring Boot
-- 🟢 Node.js & Express.js
-- 🗄️ Database Design
-- ☁️ Deployment & Cloud Technologies
-- 🤖 AI & Machine Learning
-- 🔓 Open Source Development
-
----
-
-# 💡 Developer Philosophy
-
-### **Build. Learn. Improve. Repeat. 🚀**
-
-> I believe the best way to learn software development is by building real projects, solving real problems, and continuously improving.
-
----
-
-# 🤝 Let's Connect
-
-I'm open to:
-
-💼 **Software Development Opportunities**
-
-🌐 **Frontend & Full-Stack Projects**
-
-🤝 **Collaborations**
-
-🔓 **Open-Source Contributions**
-
-📚 **Learning Opportunities**
-
-🚀 **Interesting Technical Projects**
-
-### 🔗 Connect With Me
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sania-mujtaba-20806a394
-- 📧 **Email:** selfieq982@gamil.com
-- 🌐 **Portfolio:** https://thiranex-task1-portfolio.onrender.com/
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=EF4444" alt="REST APIs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSA-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=EF4444" alt="DSA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OOP-0a0a0a?style=for-the-badge&logo=java&logoColor=EF4444" alt="OOP" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DBMS-0a0a0a?style=for-the-badge&logo=mysql&logoColor=EF4444" alt="DBMS" />
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<h2 align="center">💼 Experience</h2>
 
-**Let's build something meaningful together. 💻🚀**
+<table width="100%" border="0" align="center">
 
-<div align="center">
+<tr>
+<td align="center" style="padding: 18px;">
+  <h3>💻 Full Stack Development Intern — Thiranex</h3>
+  <p><b>Aug 2026 – Sep 2026</b></p>
+  <p>
+    Built and deployed full-stack web applications using modern frontend
+    and backend technologies. Worked with GitHub, REST APIs, databases
+    and deployment workflows.
+  </p>
+</td>
+</tr>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
+<tr>
+<td align="center" style="padding: 18px;">
+  <h3>🌐 Web Development Intern — InternPe</h3>
+  <p><b>Jul 2024 – Aug 2024</b></p>
+  <p>
+    Developed responsive web pages using HTML, CSS and JavaScript,
+    while completing development tasks and improving frontend practices.
+  </p>
+</td>
+</tr>
 
-</div>
+</table>
 
 ---
+
+<h2 align="center">🎓 Education</h2>
+
+<p align="center">
+  <b>B.Tech — Computer Science & Engineering</b><br />
+  Bengal College of Engineering and Technology, Durgapur<br />
+  MAKAUT • 2022 – 2026
+</p>
+
+<p align="center">
+  <b>Higher Secondary — Class XII</b><br />
+  S.A.D.N. Convent School, Sheikhpura • CBSE • 2021
+</p>
+
+<p align="center">
+  <b>Secondary — Class X</b><br />
+  S.A.D.N. Convent School, Sheikhpura • CBSE • 2019
+</p>
+
+---
+
+<h2 align="center">🏆 Certifications</h2>
+
+<p align="center">
+  🔴 <b>Full Stack Development Certificate</b> — Thiranex<br />
+  🔴 <b>Web Development Internship Certificate</b> — InternPe<br />
+  🔴 <b>Software Engineer Certificate</b> — HackerRank
+</p>
+
+---
+
+<h2 align="center">🌟 Leadership & Activities</h2>
+
+<p align="center">
+  🔴 Active Member — Robonix Club<br />
+  🔴 Active Member — National Service Scheme (NSS)<br />
+  🔴 Organizer — Asha2025<br />
+  🔴 Participated in coding competitions, hackathons & technical events
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sania28&bg_color=0a0a0a&color=ef4444&line=dc2626&point=ffffff&area=true&hide_border=false&custom_title=Sania's%20Contribution%20Journey" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <i>Interested in web development, software projects, collaboration, or simply want to say hello?</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sania-mujtaba-20806a394/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:selfieq982@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sania28">
+    <img src="https://img.shields.io/badge/GitHub-View_Profile-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <b>❤️ Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
